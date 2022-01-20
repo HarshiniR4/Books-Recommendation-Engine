@@ -19,7 +19,10 @@ https://www.kaggle.com/ruchi798/bookcrossing-dataset
 The dataset contains three parts- Book details, User Details and the books' rating details
 On cleaning and preprocessing the datasets and combining the necessary information from these three into a single dataset we obtain viable information on the book titles, author, publishing, ratings and the ISBN of the book. Using this information we can develop a pretty detailed Book Recommendation Engine.
 
-
+![alt image](https://user-images.githubusercontent.com/59364581/150345037-e36646f0-983b-4e90-9f15-14055746c36f.png)
+![alt image](https://user-images.githubusercontent.com/59364581/150345028-3e20aed1-fabe-444e-9f7e-155d0d8a8bc7.png)
+![alt image](https://user-images.githubusercontent.com/59364581/150345050-e67ad150-3e18-43b2-9ac9-6793aafb7301.png)
+![alt image](https://user-images.githubusercontent.com/59364581/150345041-2c576e43-d878-468a-ac22-e04cb68a570a.png)
 
 
 Inspiration, code snippets, etc.
